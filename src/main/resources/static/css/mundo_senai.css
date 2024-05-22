@@ -1,0 +1,13 @@
+body {
+    background-image: url('/bg_mundoSENAI.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.error{
+    border: 1px solid red;
+    box-shadow: 0 0 10px rgb(255, 0, 0, 1);
+    border-radius: 6px;
+}
